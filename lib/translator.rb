@@ -3,7 +3,7 @@ require'yaml'
 # require modules here
 
 def load_library
-  library = {}
+  library = {"meaning" =>}
 end
 
 def get_japanese_emoticon
