@@ -16,7 +16,8 @@ def get_japanese_emoticon(file_path, emoticon)
   result = library["get_emoticon"][emoticon]
   if result
     result
-  end
+  else
+    
   # code goes here
 end
 
